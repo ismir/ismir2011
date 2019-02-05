@@ -1,0 +1,42 @@
+@charset "UTF-8";
+/* CSS Document */
+
+	
+.wrap {
+	width: 960px;
+	height: inherit;
+	margin: auto;
+	}
+	
+.top {
+	width: 960px;
+	height: 63px;
+	background-color: #FFFFFF;
+	}
+	
+.title {
+	width: 460px;
+	height: 50px;
+	margin: 7px 4px 0px 550px;
+	float: right;
+	}
+	
+	
+.main {
+	width: 960px;
+	height: 213px;
+	background-image:url(possible10.jpg);
+	}
+
+a:link {
+COLOR: #000000;
+}
+a:visited {
+COLOR: #000000;
+}
+a:hover {
+COLOR: #F87431;
+}
+a:active {
+COLOR: #F87431;
+}
